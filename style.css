@@ -1,0 +1,30 @@
+body {
+    background: #000000
+    ;
+    font-family: comic;
+    margin: 20px;
+    color: #555;
+}
+
+h1 {
+    color: #555;
+    text-align: center;
+}
+
+h3 {
+    color: #555;
+    text-align: center;
+}
+
+h4 {
+    color: #777;
+    text-align: center;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+li {
+    line-height: 1.5;
+}
